@@ -5,7 +5,7 @@
 
 LFR face dataset is aself-collected dataset built from three popular datasets including FLW, CEP, and CASIA-WebFace represented into three categories of face
 capture such as Left side, Frontal and right side. The dataset can be downloaded from 
-<a href="https://drive.google.com/file/d/1gNgOiR0LR62EtST7WHODi6ewRJNBgD0A/view?usp=sharing">here</a>
+<a href="https://drive.google.com/file/d/1gNgOiR0LR62EtST7WHODi6ewRJNBgD0A/view?usp=sharing">here</a>.
 
 <img src="https://github.com/elharroussomar/LF-face-dataset/blob/main/proposed1.jpg" width="500" height="300">
 

@@ -6,6 +6,8 @@
 <img src="https://github.com/elharroussomar/LF-face-dataset/blob/main/proposed1.jpg" width="500" height="300">
 
 <img src="https://github.com/elharroussomar/LF-face-dataset/blob/main/LFR1.jpg" alt="Italian Trulli" width="400" height="200">
+LFR face dataset is aself-collected dataset built from three popular datasets including FLW, CEP, and CASIA-WebFace represented into three categories of face
+capture such as Left side, Frontal and right side.
 
 <h1>Citation</h1>
 

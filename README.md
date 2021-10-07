@@ -3,9 +3,9 @@
 
 <h1>LFR face dataset:Left-Front-Right dataset for pose-invariant face recognition in the wild</h1>
 
-<img src="https://github.com/elharroussomar/LF-face-dataset/blob/master/proposed1.jpg" alt="Italian Trulli">
+<img src="https://github.com/elharroussomar/LF-face-dataset/blob/main/proposed1.jpg" alt="Italian Trulli">
 
-<img src="https://github.com/elharroussomar/LF-face-dataset/blob/master/LFR.jpg" alt="Italian Trulli">
+<img src="https://github.com/elharroussomar/LF-face-dataset/blob/main/LFR.jpg" alt="Italian Trulli">
 
 <h1>Citation</h1>
 

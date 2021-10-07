@@ -5,7 +5,7 @@
 
 <img src="https://github.com/elharroussomar/LF-face-dataset/blob/main/proposed1.jpg" width="500" height="300">
 
-<img src="https://github.com/elharroussomar/LF-face-dataset/blob/main/LFR.jpg" alt="Italian Trulli" width="300" height="100">
+<img src="https://github.com/elharroussomar/LF-face-dataset/blob/main/LFR.jpg" alt="Italian Trulli" width="400" height="200">
 
 <h1>Citation</h1>
 

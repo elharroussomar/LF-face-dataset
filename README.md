@@ -33,11 +33,12 @@ capture such as Left side, Frontal and right side. The dataset can be downloaded
   year={2021},
   publisher={IEEE}
 }
-"><pre><code>@article{elharrouss2021drone,
-  title={Drone-SCNet: Scaled Cascade Network for Crowd Counting on Drone Images},
-  author={Elharrouss, Omar and Almaadeed, Noor and Abualsaud, Khalid and Al-Ali, Ali and Mohamed, Amr and Khattab, Tamer and Al-Maadeed, Somaya},
-  journal={IEEE Transactions on Aerospace and Electronic Systems},
-  year={2021},
-  publisher={IEEE}
+"><pre><code>@inproceedings{elharrouss2020lfr,
+  title={LFR face dataset: Left-Front-Right dataset for pose-invariant face recognition in the wild},
+  author={Elharrouss, Omar and Almaadeed, Noor and Al-Maadeed, Somaya},
+  booktitle={2020 IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)},
+  pages={124--130},
+  year={2020},
+  organization={IEEE}
 }
 </code></pre></div>

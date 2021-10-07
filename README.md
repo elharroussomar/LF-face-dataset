@@ -32,3 +32,19 @@ capture such as Left side, Frontal and right side. The dataset can be downloaded
   organization={IEEE}
 }
 </code></pre></div>
+
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="@article{elharrouss2021drone,
+  title={Drone-SCNet: Scaled Cascade Network for Crowd Counting on Drone Images},
+  author={Elharrouss, Omar and Almaadeed, Noor and Abualsaud, Khalid and Al-Ali, Ali and Mohamed, Amr and Khattab, Tamer and Al-Maadeed, Somaya},
+  journal={IEEE Transactions on Aerospace and Electronic Systems},
+  year={2021},
+  publisher={IEEE}
+}
+"><pre><code>@article{elharrouss2021drone,
+  title={Drone-SCNet: Scaled Cascade Network for Crowd Counting on Drone Images},
+  author={Elharrouss, Omar and Almaadeed, Noor and Abualsaud, Khalid and Al-Ali, Ali and Mohamed, Amr and Khattab, Tamer and Al-Maadeed, Somaya},
+  journal={IEEE Transactions on Aerospace and Electronic Systems},
+  year={2021},
+  publisher={IEEE}
+}
+</code></pre></div>

@@ -1,7 +1,7 @@
 # LFR face dataset:Left-Front-Right face dataset
 
 
-<h1>LFR face dataset:Left-Front-Right dataset for pose-invariant face recognition in the wild</h1>
+<h1>LFR face dataset: Left-Front-Right dataset for pose-invariant face recognition in the wild</h1>
 
 LFR face dataset is aself-collected dataset built from three popular datasets including FLW, CEP, and CASIA-WebFace represented into three categories of face
 capture such as Left side, Frontal and right side. The dataset can be downloaded from 
